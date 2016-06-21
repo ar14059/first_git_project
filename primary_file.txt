@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Primary file is now changed in "new_features" brabch
 
 Some random text.
+=======
+Primary file is now changed in "n_f" brabch
+>>>>>>> shorten_title
